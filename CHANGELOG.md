@@ -1,3 +1,17 @@
+## [5.3.1](https://github.com/appium/appium-ios-simulator/compare/v5.3.0...v5.3.1) (2023-09-14)
+
+
+### Miscellaneous Chores
+
+* Bump sinon from 15.2.0 to 16.0.0 ([#381](https://github.com/appium/appium-ios-simulator/issues/381)) ([686ee76](https://github.com/appium/appium-ios-simulator/commit/686ee7612f63c0b21fbde5842144afc007ff99d7))
+
+## [5.3.0](https://github.com/appium/appium-ios-simulator/compare/v5.2.2...v5.3.0) (2023-09-07)
+
+
+### Features
+
+* Add setAutoFillPasswordsEnabled function ([#378](https://github.com/appium/appium-ios-simulator/issues/378)) ([fa724ec](https://github.com/appium/appium-ios-simulator/commit/fa724eca6a7dde034e6375140c503c042132672e))
+
 ## [5.2.2](https://github.com/appium/appium-ios-simulator/compare/v5.2.1...v5.2.2) (2023-08-28)
 
 
